@@ -5,3 +5,5 @@
 __author__ = """Joshua Hahn"""
 __email__ = 'josh.w.hahn@gmail.com'
 __version__ = '0.1.0'
+
+from .pikrellcam_python import PiKrellCam  # noqa
